@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (5.0.0.beta.1)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`, branch `alamofire5-core-rewrite`)
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :branch: alamofire5-core-rewrite
+    :git: https://github.com/Alamofire/Alamofire.git
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: 927a46098bdb6a1852c08b4c42c53827b19e9f45
+    :git: https://github.com/Alamofire/Alamofire.git
+
+SPEC CHECKSUMS:
+  Alamofire: eafeeb206da2148045e57a5dc3c6a4acc65b9eb2
+
+PODFILE CHECKSUM: f4ddb698fe4ff75246573482fbee99f2e8abec23
+
+COCOAPODS: 1.5.2
